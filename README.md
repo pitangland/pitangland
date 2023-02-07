@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Hello%20I'm%20wonpyo&fontSize=30&fontColor=gray&fontAlign=80&fontAlignY=40&rotate=12&animation=twinkling) -->
 
-<div align=center><h1>👋 Hi</h1></div>
+<div align=center><h1>👋 Hi I'm Wonpyo</h1></div>
 
 <hr>
 
