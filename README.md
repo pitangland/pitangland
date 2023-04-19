@@ -2,11 +2,11 @@
 
 <div align=center><h1>👋 Hi I'm Wonpyo</h1></div>
 
-<div align=center>
+<!-- <div align=center>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitangland&layout=compact&theme=dark)
   
-</div>
+</div> -->
 
 
 
